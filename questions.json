@@ -1,0 +1,351 @@
+{
+  "name": "Free TEAS Practice Questions",
+  "description": "20 original ATI TEAS 7 nursing-entrance practice questions (5 per section: Reading, Mathematics, Science, English & Language Usage) with answer keys and worked rationales.",
+  "license": "CC-BY-4.0",
+  "attribution": "Free TEAS Practice Questions by Grey Ridge Signals Group LLC (https://hesiready.pages.dev), licensed CC BY 4.0.",
+  "source": "https://hesiready.pages.dev",
+  "exam": "ATI TEAS 7",
+  "questions_in_this_dataset": 20,
+  "generated_at": "2026-11-11T02:21:13Z",
+  "disclaimer": "Original practice questions written for study. These are not real ATI TEAS items and this product is not affiliated with or endorsed by ATI (Assessment Technologies Institute). No pass rate is claimed; no nurse or clinician reviewed these questions.",
+  "sections": [
+    {
+      "id": "reading",
+      "name": "Reading"
+    },
+    {
+      "id": "math",
+      "name": "Mathematics"
+    },
+    {
+      "id": "science",
+      "name": "Science"
+    },
+    {
+      "id": "english",
+      "name": "English & Language Usage"
+    }
+  ],
+  "questions": [
+    {
+      "id": "reading-01",
+      "section": "reading",
+      "section_name": "Reading",
+      "question": "Read the passage: \"Regular physical activity strengthens the heart, improves circulation, and helps the body regulate blood sugar. Even a brisk daily walk can lower the risk of several chronic diseases.\" Which statement best expresses the main idea?",
+      "options": [
+        "Physical activity provides broad benefits for health.",
+        "Walking is the only form of exercise worth doing.",
+        "Chronic disease cannot be prevented.",
+        "Circulation has nothing to do with the heart."
+      ],
+      "answer_index": 0,
+      "answer_letter": "A",
+      "answer_text": "Physical activity provides broad benefits for health.",
+      "rationale": "The passage lists several benefits of physical activity, so the main idea is that it provides broad health benefits. The other choices overstate, contradict, or are unsupported by the text."
+    },
+    {
+      "id": "reading-02",
+      "section": "reading",
+      "section_name": "Reading",
+      "question": "A notice reads: \"The clinic will be closed Monday for staff training. Please schedule appointments for Tuesday or later.\" What is the author's primary purpose?",
+      "options": [
+        "To persuade readers to change clinics",
+        "To inform readers of a closure and what to do",
+        "To entertain readers with a story",
+        "To criticize the training program"
+      ],
+      "answer_index": 1,
+      "answer_letter": "B",
+      "answer_text": "To inform readers of a closure and what to do",
+      "rationale": "The notice states a fact (a closure) and gives a direction (schedule later), so its purpose is to inform. There is no persuasion, narrative, or criticism."
+    },
+    {
+      "id": "reading-03",
+      "section": "reading",
+      "section_name": "Reading",
+      "question": "Which of the following is a statement of fact rather than opinion?",
+      "options": [
+        "The new wing of the hospital is the most beautiful building in town.",
+        "Nurses have the hardest job of anyone.",
+        "The hospital has 240 licensed beds.",
+        "Everyone should become a nurse."
+      ],
+      "answer_index": 2,
+      "answer_letter": "C",
+      "answer_text": "The hospital has 240 licensed beds.",
+      "rationale": "A fact can be verified. The number of licensed beds is verifiable, while 'most beautiful,' 'hardest,' and 'should' express opinions or judgments."
+    },
+    {
+      "id": "reading-04",
+      "section": "reading",
+      "section_name": "Reading",
+      "question": "Read the passage: \"First, gather the equipment. Next, wash your hands. Then put on gloves. Finally, open the sterile package.\" What text structure does the author use?",
+      "options": [
+        "Compare and contrast",
+        "Cause and effect",
+        "Problem and solution",
+        "Sequence (chronological order)"
+      ],
+      "answer_index": 3,
+      "answer_letter": "D",
+      "answer_text": "Sequence (chronological order)",
+      "rationale": "Signal words 'first,' 'next,' 'then,' and 'finally' show steps in order, which is a sequence or chronological structure."
+    },
+    {
+      "id": "reading-05",
+      "section": "reading",
+      "section_name": "Reading",
+      "question": "Passage: \"By the time Maria reached the pharmacy counter, her hands were shaking and she could barely read the label.\" What can the reader most reasonably infer?",
+      "options": [
+        "Maria is experiencing stress or physical distress.",
+        "Maria is a pharmacist.",
+        "The pharmacy was closed.",
+        "The label was written in another language."
+      ],
+      "answer_index": 0,
+      "answer_letter": "A",
+      "answer_text": "Maria is experiencing stress or physical distress.",
+      "rationale": "Shaking hands and difficulty reading suggest stress or physical distress. The other options add details the passage does not support."
+    },
+    {
+      "id": "math-01",
+      "section": "math",
+      "section_name": "Mathematics",
+      "question": "Evaluate: 24 - 6 × (8 - 5) + 2",
+      "options": [
+        "56",
+        "20",
+        "8",
+        "14"
+      ],
+      "answer_index": 2,
+      "answer_letter": "C",
+      "answer_text": "8",
+      "rationale": "Using order of operations: 8 - 5 = 3, then 6 × 3 = 18, then 24 - 18 + 2 = 8."
+    },
+    {
+      "id": "math-02",
+      "section": "math",
+      "section_name": "Mathematics",
+      "question": "A patient is to receive 30% of a 500 mL bag over the first hour. How many milliliters is that?",
+      "options": [
+        "120 mL",
+        "170 mL",
+        "200 mL",
+        "150 mL"
+      ],
+      "answer_index": 3,
+      "answer_letter": "D",
+      "answer_text": "150 mL",
+      "rationale": "30% of 500 = 0.30 × 500 = 150 mL."
+    },
+    {
+      "id": "math-03",
+      "section": "math",
+      "section_name": "Mathematics",
+      "question": "What is 3/4 + 1/6, expressed as a single fraction in lowest terms?",
+      "options": [
+        "11/12",
+        "4/10",
+        "5/6",
+        "7/12"
+      ],
+      "answer_index": 0,
+      "answer_letter": "A",
+      "answer_text": "11/12",
+      "rationale": "Use a common denominator of 12: 3/4 = 9/12 and 1/6 = 2/12, so 9/12 + 2/12 = 11/12, already in lowest terms."
+    },
+    {
+      "id": "math-04",
+      "section": "math",
+      "section_name": "Mathematics",
+      "question": "If 4 ounces of solution contain 12 milligrams of medication, how many milligrams are in 10 ounces at the same concentration?",
+      "options": [
+        "24 mg",
+        "30 mg",
+        "36 mg",
+        "40 mg"
+      ],
+      "answer_index": 1,
+      "answer_letter": "B",
+      "answer_text": "30 mg",
+      "rationale": "Set up a proportion: 12/4 = x/10, so x = 10 × (12/4) = 10 × 3 = 30 mg."
+    },
+    {
+      "id": "math-05",
+      "section": "math",
+      "section_name": "Mathematics",
+      "question": "Solve for x: 3x - 7 = 20",
+      "options": [
+        "7",
+        "4",
+        "9",
+        "13"
+      ],
+      "answer_index": 2,
+      "answer_letter": "C",
+      "answer_text": "9",
+      "rationale": "Add 7 to both sides: 3x = 27. Divide by 3: x = 9."
+    },
+    {
+      "id": "science-01",
+      "section": "science",
+      "section_name": "Science",
+      "question": "What is the primary function of red blood cells?",
+      "options": [
+        "To carry oxygen to body tissues",
+        "To fight infection",
+        "To form blood clots",
+        "To produce antibodies"
+      ],
+      "answer_index": 0,
+      "answer_letter": "A",
+      "answer_text": "To carry oxygen to body tissues",
+      "rationale": "Red blood cells contain hemoglobin, which binds and transports oxygen to tissues. Fighting infection and producing antibodies are roles of white blood cells; clotting involves platelets."
+    },
+    {
+      "id": "science-02",
+      "section": "science",
+      "section_name": "Science",
+      "question": "The heart is the central organ of which body system?",
+      "options": [
+        "Respiratory system",
+        "Cardiovascular (circulatory) system",
+        "Digestive system",
+        "Nervous system"
+      ],
+      "answer_index": 1,
+      "answer_letter": "B",
+      "answer_text": "Cardiovascular (circulatory) system",
+      "rationale": "The heart pumps blood through vessels, making it the central organ of the cardiovascular (circulatory) system."
+    },
+    {
+      "id": "science-03",
+      "section": "science",
+      "section_name": "Science",
+      "question": "Which cell organelle is primarily responsible for producing energy (ATP)?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion",
+        "Golgi apparatus"
+      ],
+      "answer_index": 2,
+      "answer_letter": "C",
+      "answer_text": "Mitochondrion",
+      "rationale": "The mitochondrion generates most of a cell's ATP through cellular respiration, which is why it is often called the powerhouse of the cell."
+    },
+    {
+      "id": "science-04",
+      "section": "science",
+      "section_name": "Science",
+      "question": "On the pH scale, a solution with a pH of 3 is best described as:",
+      "options": [
+        "strongly basic",
+        "neutral",
+        "the same as pure water",
+        "acidic"
+      ],
+      "answer_index": 3,
+      "answer_letter": "D",
+      "answer_text": "acidic",
+      "rationale": "The pH scale runs from 0 to 14; values below 7 are acidic. A pH of 3 is acidic. Pure water is neutral at pH 7."
+    },
+    {
+      "id": "science-05",
+      "section": "science",
+      "section_name": "Science",
+      "question": "Which of the following is a primary function of the skeletal system?",
+      "options": [
+        "Providing structural support and protecting organs",
+        "Producing digestive enzymes",
+        "Filtering the blood",
+        "Regulating body temperature through sweat"
+      ],
+      "answer_index": 0,
+      "answer_letter": "A",
+      "answer_text": "Providing structural support and protecting organs",
+      "rationale": "The skeletal system supports the body and protects internal organs (for example, the skull protects the brain). The other functions belong to the digestive, urinary, and integumentary systems."
+    },
+    {
+      "id": "english-01",
+      "section": "english",
+      "section_name": "English & Language Usage",
+      "question": "Choose the sentence with correct subject-verb agreement.",
+      "options": [
+        "The list of supplies are on the counter.",
+        "The list of supplies were on the counter.",
+        "The list of supplies is on the counter.",
+        "The list of supplies have been on the counter."
+      ],
+      "answer_index": 2,
+      "answer_letter": "C",
+      "answer_text": "The list of supplies is on the counter.",
+      "rationale": "The subject is 'list' (singular); 'of supplies' is a prepositional phrase that does not change the verb. The singular verb 'is' agrees with 'list.'"
+    },
+    {
+      "id": "english-02",
+      "section": "english",
+      "section_name": "English & Language Usage",
+      "question": "Which sentence is punctuated correctly?",
+      "options": [
+        "After the exam we celebrated, with pizza and music.",
+        "After the exam we celebrated with pizza, and music.",
+        "After, the exam we celebrated with pizza and music.",
+        "After the exam, we celebrated with pizza and music."
+      ],
+      "answer_index": 3,
+      "answer_letter": "D",
+      "answer_text": "After the exam, we celebrated with pizza and music.",
+      "rationale": "A comma follows the introductory phrase 'After the exam,' and no other comma is needed. The other options misplace the comma."
+    },
+    {
+      "id": "english-03",
+      "section": "english",
+      "section_name": "English & Language Usage",
+      "question": "Choose the sentence that uses the correct pronoun.",
+      "options": [
+        "The instructor gave the assignment to Jordan and me.",
+        "The instructor gave the assignment to Jordan and I.",
+        "The instructor gave the assignment to I and Jordan.",
+        "The instructor gave the assignment to myself and Jordan."
+      ],
+      "answer_index": 0,
+      "answer_letter": "A",
+      "answer_text": "The instructor gave the assignment to Jordan and me.",
+      "rationale": "As the object of the preposition 'to,' the objective pronoun 'me' is correct. Testing each pronoun alone ('to me') confirms it."
+    },
+    {
+      "id": "english-04",
+      "section": "english",
+      "section_name": "English & Language Usage",
+      "question": "Choose the sentence that uses the correct word.",
+      "options": [
+        "The new policy will effect every department.",
+        "The new policy will affect every department.",
+        "The new policy will have an affect on every department.",
+        "The new policy will effected every department."
+      ],
+      "answer_index": 1,
+      "answer_letter": "B",
+      "answer_text": "The new policy will affect every department.",
+      "rationale": "'Affect' is usually the verb meaning to influence; 'effect' is usually the noun meaning a result. The policy will 'affect' (influence) the departments."
+    },
+    {
+      "id": "english-05",
+      "section": "english",
+      "section_name": "English & Language Usage",
+      "question": "Which sentence is capitalized correctly?",
+      "options": [
+        "We visited the Pacific ocean last Summer.",
+        "We visited the pacific Ocean last summer.",
+        "We visited the Pacific Ocean last summer.",
+        "we visited the Pacific Ocean last Summer."
+      ],
+      "answer_index": 2,
+      "answer_letter": "C",
+      "answer_text": "We visited the Pacific Ocean last summer.",
+      "rationale": "'Pacific Ocean' is a proper noun and is capitalized; the season 'summer' is not capitalized unless it begins a sentence."
+    }
+  ]
+}
