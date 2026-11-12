@@ -2,11 +2,11 @@
   "name": "Free TEAS Practice Questions",
   "description": "20 original ATI TEAS 7 nursing-entrance practice questions (5 per section: Reading, Mathematics, Science, English & Language Usage) with answer keys and worked rationales.",
   "license": "CC-BY-4.0",
-  "attribution": "Free TEAS Practice Questions by Grey Ridge Signals Group LLC (https://hesiready.pages.dev), licensed CC BY 4.0.",
-  "source": "https://hesiready.pages.dev",
+  "attribution": "Free TEAS Practice Questions by Grey Ridge Signals Group LLC (https://teas.greyridgesignals.ai), licensed CC BY 4.0.",
+  "source": "https://teas.greyridgesignals.ai",
   "exam": "ATI TEAS 7",
   "questions_in_this_dataset": 20,
-  "generated_at": "2026-11-11T23:58:22Z",
+  "generated_at": "2026-11-12T20:35:17Z",
   "disclaimer": "Original practice questions written for study. These are not real ATI TEAS items and this product is not affiliated with or endorsed by ATI (Assessment Technologies Institute). No pass rate is claimed; no nurse or clinician reviewed these questions.",
   "sections": [
     {
