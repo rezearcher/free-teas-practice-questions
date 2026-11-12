@@ -4,14 +4,14 @@
 
 About 60% of US nursing programs use the ATI TEAS for admission. These questions are written for self-study and cover the kinds of skills the test measures — reading comprehension, arithmetic and algebra, human anatomy and basic science, and English grammar and usage.
 
-Studying for the **HESI A2** instead (or as well)? The same team runs **[HESIReady](https://hesiready.pages.dev)**, a full HESI A2 practice exam with a rationale on every question — many nursing programs accept either test.
+Studying for the **HESI A2** instead (or as well)? The same team runs **[HESIReady](https://hesi.greyridgesignals.ai)**, a full HESI A2 practice exam with a rationale on every question — many nursing programs accept either test.
 
 ## Use the data
 
 - [`questions.json`](questions.json) — structured records (id, section, question, options, answer, rationale).
 - [`questions.csv`](questions.csv) — the same questions as a spreadsheet.
 
-The questions are licensed [CC BY 4.0](LICENSE): reuse them anywhere, including commercially, as long as you credit [Grey Ridge Signals Group](https://hesiready.pages.dev). Teachers, tutors, and study sites are welcome to embed them.
+The questions are licensed [CC BY 4.0](LICENSE): reuse them anywhere, including commercially, as long as you credit [Grey Ridge Signals Group](https://teas.greyridgesignals.ai). Teachers, tutors, and study sites are welcome to embed them.
 
 ## The questions
 
